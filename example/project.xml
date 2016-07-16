@@ -10,6 +10,6 @@
 	<haxelib name="swf" />
 	
 	<assets path="Assets" rename="assets" />
-	<library path="assets/DynamicTextSample.swf" id="swf-library" preload="true" type="swf"/>
+	<library path="assets/DynamicTextDemo.swf" id="swf-library" preload="true" type="swf"/>
 	
 </project>
